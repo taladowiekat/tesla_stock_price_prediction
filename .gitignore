@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+*.out
+
+# Virtual environment
+venv/
+.venv/
+
+# Images and outputs
+*.png
+*.jpg
+outputs/
