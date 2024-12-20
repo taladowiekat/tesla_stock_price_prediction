@@ -1,5 +1,5 @@
 [core]
     remote = myremote
-    hardlink_lock = false
+    hardlink_lock = true
 ['remote "myremote"']
     url = C:/Program Files/Git/path/to/new/storage
