@@ -2,10 +2,11 @@
 __pycache__/
 *.pyc
 
-# Data files
+# Data files (Ignore .csv and .json but allow .dvc)
 *.csv
 *.xlsx
 *.json
+!*.dvc
 
 # Logs
 *.log

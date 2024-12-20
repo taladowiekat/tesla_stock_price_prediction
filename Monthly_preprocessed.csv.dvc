@@ -1,5 +1,0 @@
-outs:
-- md5: a56ce5fe4c159e9ac09a5e65b9d6d8a7
-  size: 16560
-  hash: md5
-  path: Monthly_preprocessed.csv
