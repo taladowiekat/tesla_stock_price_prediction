@@ -20,3 +20,4 @@ venv/
 *.png
 *.jpg
 outputs/
+dvc.json
