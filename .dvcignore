@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caf35ffe00329e1ac4bcec1947f19d1cd85955d7f4327e942cd647fb7a5a7bc6
-size 142
+# Add patterns of files dvc should ignore, which could improve
+# the performance. Learn more at
+# https://dvc.org/doc/user-guide/dvcignore
