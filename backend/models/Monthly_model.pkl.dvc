@@ -1,0 +1,5 @@
+outs:
+- md5: 1adbd938b9bf283b0e8c6288417a7554
+  size: 2253793
+  hash: md5
+  path: Monthly_model.pkl

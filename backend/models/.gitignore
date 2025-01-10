@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36da61c69730f64391d679b4157e64d1a7caec6306114e2e01d9d00dbe318c54
-size 257
+/1min_model.pkl
+/5min_model.pkl
+/15min_model.pkl
+/30min_model.pkl
+/60min_model.pkl
+/Daily_model.pkl
+/Weekly_model.pkl
+/Monthly_model.pkl

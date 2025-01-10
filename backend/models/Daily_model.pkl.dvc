@@ -1,0 +1,5 @@
+outs:
+- md5: 20e21545409e2aa84d425f6ed957aade
+  size: 681
+  hash: md5
+  path: Daily_model.pkl

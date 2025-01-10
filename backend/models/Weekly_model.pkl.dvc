@@ -1,0 +1,5 @@
+outs:
+- md5: 887e7c0ef44075c10b9a5c288565d2ac
+  size: 681
+  hash: md5
+  path: Weekly_model.pkl
