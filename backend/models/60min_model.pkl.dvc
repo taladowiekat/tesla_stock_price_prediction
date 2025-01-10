@@ -1,5 +1,3 @@
-outs:
-- md5: 2607bcc481b61376be2cd87700f71ab8
-  size: 502753
-  hash: md5
-  path: 60min_model.pkl
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ed88d4e9740cce8f2612589a6ea164d8f5da31f18eb915a5000aa82da7410f
+size 102

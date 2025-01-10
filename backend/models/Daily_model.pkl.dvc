@@ -1,5 +1,3 @@
-outs:
-- md5: 20e21545409e2aa84d425f6ed957aade
-  size: 681
-  hash: md5
-  path: Daily_model.pkl
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e0df85c73f73838dc56509413f060153e06c7a806e62f0acb114b49b5202e88
+size 99

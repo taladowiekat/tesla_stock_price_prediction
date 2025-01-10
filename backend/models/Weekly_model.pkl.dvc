@@ -1,5 +1,3 @@
-outs:
-- md5: 887e7c0ef44075c10b9a5c288565d2ac
-  size: 681
-  hash: md5
-  path: Weekly_model.pkl
+version https://git-lfs.github.com/spec/v1
+oid sha256:8620a17bcd11cb7b17a39256160f57a9469b46b94eefdced5e71732dd3eac7e4
+size 100
