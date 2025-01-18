@@ -1,5 +1,3 @@
-outs:
-- md5: 70d6f160fa98ce4797806484a511e506
-  size: 768970
-  hash: md5
-  path: Monthly_model.pkl
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d47dc5ccb56acd3d01c054de671ab5fdabc63ba7a17ebe5d139f24906c41bf3
+size 104
